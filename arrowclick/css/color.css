@@ -1,0 +1,115 @@
+
+
+body {
+    background-image: url("arrowclick.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1, h2, h3, h4, h5{
+    color: white;
+    font-family: Tahoma;
+    font-size: 20px;
+}
+strong {
+    color: blue;
+    font-family: Verdana;
+    font-size: 25; 
+
+}
+
+
+
+p span {
+    color: gainsboro;
+    font-family: Comic 'Gill Sans'; 
+    font-size: 20px;
+}
+
+p a span strong {
+    color: yellowgreen;
+}
+
+.importante {
+    color: yellowgreen;
+}
+
+li {
+    color: white;
+    background-color: red;
+    width: 90px;
+    
+}
+
+details {
+    color: rgb(156, 107, 0);
+    
+}
+
+hr {
+    width: -400px;
+       
+}
+.todo {
+    position: relative;
+    left: 700px;
+    
+}
+div {
+    float: left;
+}
+.titulo {
+    position: relative;
+    left: 900px;
+}
+.mitexti {
+    position: relative;
+    left: 700px;
+    right: 3px;
+    bottom: 1px;
+    top: 20px;
+    border: 5px solid;
+    border-color: white;
+    border-width: 5px;
+    width: 500px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: greenyellow;
+    color: darkred;
+}
+.zowapowers {
+    border: 5px solid;
+    border-color: rgba(255, 255, 255, 0.61);
+    border-width: 5px;
+    width: 400px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    background-color: rgb(95, 71, 95);
+    color: rgb(29, 180, 142);
+}
+.textodiscord {
+    margin-left: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    
+    color: green;
+
+}
+
+.discord{
+    color: purple;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.expiracion {
+    color: blue;
+}
